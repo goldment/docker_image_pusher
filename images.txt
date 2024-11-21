@@ -7,3 +7,5 @@
 
 
 rustdesk/rustdesk-server:latest
+
+xhofe/alist:latest
