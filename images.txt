@@ -6,20 +6,20 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-#rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server:latest
 
-#xhofe/alist:latest
+xhofe/alist:latest
 
-#redis:latest
+redis:latest
 
-#bitnami/zookeeper:latest
+bitnami/zookeeper:latest
 
-#bitnami/kafka:3.4.0
+bitnami/kafka:3.4.0
 
-#provectuslabs/kafka-ui:latest
+provectuslabs/kafka-ui:latest
 
-#prom/prometheus:latest
+prom/prometheus:latest
 
-#grafana/grafana:latest
+grafana/grafana:latest
 
 lejianwen/rustdesk-api
