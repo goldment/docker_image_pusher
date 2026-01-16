@@ -26,4 +26,4 @@
 
 #mysql:5.7
 
-openjdk:17
+eclipse-temurin:17-jdk
