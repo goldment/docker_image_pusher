@@ -24,6 +24,8 @@
 
 #lejianwen/rustdesk-api
 
-mysql:5.7.44
+#mysql:5.7.44
+
+mysql:8.0.44
 
 #eclipse-temurin:17-jdk
