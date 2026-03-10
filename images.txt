@@ -26,6 +26,8 @@
 
 #mysql:5.7.44
 
-mysql:8.0.44
+#mysql:8.0.44
 
 #eclipse-temurin:17-jdk
+
+ghcr.io/openclaw/openclaw:2026.3.8
