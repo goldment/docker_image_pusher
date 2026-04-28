@@ -32,4 +32,7 @@
 
 #ghcr.io/openclaw/openclaw:2026.3.8
 
-metaligh/3x-ui
+#metaligh/3x-ui
+
+#tv
+bestzwei/libretv:latest
